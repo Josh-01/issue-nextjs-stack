@@ -1,6 +1,6 @@
 version: 0.1.0                                            # stack schema version 0.1.0 (latest)
 
-name: ghstack-nextjs                                   # stack name 
+name: nextjs-ghpages-stack                                  # stack name 
 description: Stack for a nextjs app on ghpages         # stack description
 
 branding:                                              # stack branding 
