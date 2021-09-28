@@ -5,7 +5,7 @@ description: Stack for a nextjs app on ghpages         # stack description
 
 branding:                                              # stack branding 
  icon: 'package'
- color: 'black'
+ color: 'blue'
 
 inputs:                                                # stack inputs 
   - name: NODE_VERSION                                 # stack input name
